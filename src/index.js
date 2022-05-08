@@ -1,0 +1,23 @@
+export const affirmative = true;
+export const amen = true;
+export const assuredly = true;
+export const aye = true;
+export const certain = true;
+export const definite = true;
+export const positive = true;
+export const sure = true;
+export const undoubted = true;
+export const unquestionable = true;
+export const yea = true;
+export const yeah = true;
+export const yep = true;
+export const yes = true;
+export const yup = true;
+
+export const nay = false;
+export const negative = false;
+export const nix = false;
+export const no = false;
+export const nope = false;
+export const noway = false;
+export const nowise = false;

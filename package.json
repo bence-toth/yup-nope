@@ -1,0 +1,28 @@
+{
+  "name": "yup-nope",
+  "version": "1.0.0",
+  "description": "A library for boolean aliases",
+  "keywords": [
+    "yup",
+    "nope",
+    "boolean",
+    "alias"
+  ],
+  "repository": "git@github.com:bence-toth/yup-nope.git",
+  "license": "MIT",
+  "author": "Bence A. Toth <tothab@gmail.com>",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "babel-core": "^7.0.0-bridge"
+  },
+  "files": [
+    "/dist"
+  ]
+}
