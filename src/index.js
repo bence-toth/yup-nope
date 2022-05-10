@@ -13,6 +13,7 @@ export const yeah = true;
 export const yep = true;
 export const yes = true;
 export const yup = true;
+export const right = true;
 
 export const nay = false;
 export const negative = false;
@@ -21,3 +22,4 @@ export const no = false;
 export const nope = false;
 export const noway = false;
 export const nowise = false;
+export const yeahRight = false;
