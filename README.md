@@ -39,35 +39,111 @@ const isNumberOdd = (number) => {
 
 Aliases for `true` are:
 
+- `absolutely`
+- `achcha`
 - `affirmative`
+- `agreed`
+- `alright`
+- `alrighty`
 - `amen`
 - `assuredly`
 - `aye`
+- `ayuh`
+- `betcha`
 - `certain`
+- `certainly`
+- `cha`
+- `chaa`
 - `definite`
+- `definitely`
+- `defo`
+- `fine`
+- `forsooth`
+- `indeed`
+- `indubitably`
+- `kay`
+- `mHmm`
+- `mkay`
+- `ok`
+- `okay`
+- `oke`
+- `okeyDoke`
+- `okeyDokey`
 - `positive`
+- `right`
+- `righty`
+- `rightyHo`
+- `rightyO`
+- `roger`
+- `rogerThat`
 - `sure`
+- `surely`
+- `totally`
+- `totes`
+- `uhHuh`
 - `undoubted`
+- `undoubtedly`
 - `unquestionable`
+- `unquestionably`
+- `verily`
+- `word`
+- `ya`
+- `yarp`
+- `yas`
+- `ye`
 - `yea`
 - `yeah`
 - `yep`
+- `yepperdoodles`
+- `yeppers`
 - `yes`
+- `yesh`
+- `yiss`
+- `yomp`
 - `yup`
+- `yupperdoodles`
+- `yuppers`
+- `yush`
 
 Aliases for `false` are:
 
+- `aHoax`
+- `aLie`
+- `bollocks`
+- `fakeNews`
+- `nae`
+- `nah`
+- `nahUh`
+- `naw`
 - `nay`
 - `negative`
+- `negatory`
 - `nix`
+- `nizz`
 - `no`
+- `noNo`
+- `nonsense`
 - `nope`
 - `noway`
 - `nowise`
+- `rubbish`
+- `sham`
+- `simplyNotTrue`
+- `yeahNah`
+- `yeahRight`
+- `youMustBeKidding`
+
+## Testimonials
+
+> “Thank you for spearheading the effort to standardize the introduction of absurdist relativism into an otherwise chaotic landscape. ” – Christopher Likins
+
+> “This is what we didn’t need. Thanks again! ” – Cristian Florea
 
 ## Disclaimer
 
-Please don’t use this library. Or at least use it at your own risk.
+Please don’t use this library. Or at least use it at your own risk of (including but not limited to) being frowned upon, ridiculed, or fired from your job.
+
+You were warned.
 
 ## License
 
