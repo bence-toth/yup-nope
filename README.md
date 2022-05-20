@@ -133,9 +133,17 @@ Aliases for `false` are:
 - `yeahRight`
 - `youMustBeKidding`
 
+## Testimonials
+
+> “Thank you for spearheading the effort to standardize the introduction of absurdist relativism into an otherwise chaotic landscape. ” – Christopher Likins
+
+> “This is what we didn’t need. Thanks again! ” – Cristian Florea
+
 ## Disclaimer
 
-Please don’t use this library. Or at least use it at your own risk of being frowned upon, ridiculed, or fired from your job. Consider yourself warned.
+Please don’t use this library. Or at least use it at your own risk of (including but not limited to) being frowned upon, ridiculed, or fired from your job.
+
+You were warned.
 
 ## License
 
