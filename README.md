@@ -67,7 +67,7 @@ Aliases for `false` are:
 
 ## Disclaimer
 
-Please don’t use this library. Or at least use it at your own risk.
+Please don’t use this library. Or at least use it at your own risk of being frowned upon, ridiculed, or fired from your job. Consider yourself warned.
 
 ## License
 
